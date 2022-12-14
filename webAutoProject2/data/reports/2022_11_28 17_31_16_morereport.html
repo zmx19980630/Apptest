@@ -1,0 +1,1108 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>雷小锋项目测试报告</title>
+    <meta name="generator" content="HTMLTestReport 0.0.1"/>
+    <link rel="stylesheet" href="http://unpkg.com/layui@2.6.8/dist/css/layui.css">
+    
+<style type="text/css">
+    .title { width: auto; height: 60px; text-align: center; font: bolder 38px/60px "Microsoft YaHei UI"; color: #009688; }
+    .summary span { font: normal 16px/38px "Microsoft YaHei UI"; margin-left: 20px; }
+    .success-btn { background-color: #28a745; }
+    .skip-btn { background-color: #84898c; }
+    .passClass  { background-color: #bdedbc; }
+    .failClass  { background-color: #ffefa4; }
+    .errorClass { background-color: #ffc9c9; }
+    .passCase   { color: #5cb85c; }
+    .skipCase   { color: #84898c; }
+    .failCase   { color: #FF6600; font-weight: bold; }
+    .errorCase  { color: #c00; font-weight: bold; }
+    .hiddenRow  { display: none; }
+    .testcase   { margin-left: 2em; }
+    .layui-table tbody tr:hover, .layui-table-click, .layui-table-header, .layui-table-hover, .layui-table-mend, .layui-table-patch, .layui-table-tool, .layui-table[lay-even] tr:nth-child(even) {
+        background-color: transparent;
+    }
+</style>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script>
+</head>
+<body>
+    <script language="javascript" type="text/javascript"><!--
+    output_list = Array();
+    function showCase(level) {
+        trs = document.getElementsByTagName("tr");
+        for (var i = 0; i < trs.length; i++) {
+            tr = trs[i];
+            id = tr.id;
+            if (id.substr(0,2) == 'ft') {
+                if (level == 2 || level == 0) {
+                    tr.className = 'hiddenRow';
+                }
+                else {
+                    tr.className = '';
+                }
+            }
+            if (id.substr(0,2) == 'pt') {
+                if (level < 2) {
+                    tr.className = 'hiddenRow';
+                }
+                else {
+                    tr.className = '';
+                }
+            }
+        }      
+    }
+    function showClassDetail(cid, count) {
+        var id_list = Array(count);
+        var toHide = 1;
+        for (var i = 0; i < count; i++) {
+            tid0 = 't' + cid.substr(1) + '.' + (i+1);
+            tid = 'f' + tid0;
+            tr = document.getElementById(tid);
+            if (!tr) {
+                tid = 'p' + tid0;
+                tr = document.getElementById(tid);
+            }
+            id_list[i] = tid;
+            if (tr.className) {
+                toHide = 0;
+            }
+        }
+        for (var i = 0; i < count; i++) {
+            tid = id_list[i];
+            if (toHide) {
+                document.getElementById(tid).className = 'hiddenRow';
+            }
+            else {
+                document.getElementById(tid).className = '';
+            }
+        }
+    }
+    function showTestDetail(div_id){
+        var details_div = document.getElementById(div_id)
+        var displayState = details_div.style.display
+        if (displayState == 'block' || displayState == '' ) {
+            details_div.style.display = 'none'
+        }
+        else {
+            displayState = 'block'
+            details_div.style.display = 'block'
+        }
+    }
+    function html_escape(s) {
+        s = s.replace(/&/g,'&amp;');
+        s = s.replace(/</g,'&lt;');
+        s = s.replace(/>/g,'&gt;');
+        return s;
+    }
+    --></script>
+    <div class="layui-container">
+        
+    <!--报告标题-->
+    <div class="title">雷小锋项目测试报告</div>
+    
+    <!--汇总信息-->
+    <fieldset class="layui-elem-field summary">
+        <legend>测试结果汇总</legend>
+        <div class="layui-field-box">
+            <table class="layui-table">
+                <colgroup>
+                    <col width="50%">
+                    <col width="50%">
+                </colgroup>
+                <tbody>
+                    <tr>
+                        <td>
+                            <button type="button" class="layui-btn">开始时间</button>
+                            <span class="text-dark">2022-11-28 17:31:16</span>
+                        </td>
+                        <td>
+                            <button type="button" class="layui-btn">执行时间</button>
+                            <span class="text-dark">0:06:51.635962 s</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <button type="button" class="layui-btn">用例总数</button>
+                            <span class="text-dark">27</span>
+                        </td>
+                        <td>
+                            <button type="button" class="layui-btn">通过率</button>
+                            <span class="text-dark">100.00%</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <button type="button" class="layui-btn">描述信息</button>
+                            <span class="text-dark">更全html格式的测试报告,v1.0版本</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" align="center">
+                            <button type="button" class="layui-btn success-btn">成功用例：27</button>
+                            <button type="button" class="layui-btn layui-btn-warm">失败用例：0</button>
+                            <button type="button" class="layui-btn layui-btn-danger">错误用例：0</button>
+                            <button type="button" class="layui-btn skip-btn">跳过用例：0</button>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </fieldset>
+    
+    <!--图表展示-->
+    <fieldset class="layui-elem-field summary">
+        <legend>图表展示</legend>
+        <div class="layui-field-box">
+            <div class="char">
+                <div id="chart1" style="width: 49%;height: 400px;float: left"></div>
+                <div id="chart2" style="width: 49%;height: 400px;float: left"></div>
+            </div>
+        </div>
+    </fieldset>
+
+        
+    <fieldset class="layui-elem-field summary">
+        <legend>详细信息</legend>
+        <div class="layui-field-box">
+            <table id='result_table' class="layui-table">
+            <thead>
+                <tr id='header_row' style='background-color: #009688; color: #fff'>
+                    <th>测试用例</th>
+                    <th>总数</th>
+                    <th>通过</th>
+                    <th>失败</th>
+                    <th>错误</th>
+                    <th>跳过</th>
+                    <th>操作</th>
+                </tr>
+                </thead>
+				<tbody>
+                
+    <tr class='passClass'>
+        <td class="text-center">test_job.TestJob</td>
+        <td class="text-center">9</td>
+        <td class="text-center">9</td>
+        <td class="text-center">0</td>
+        <td class="text-center">0</td>
+        <td class="text-center">0</td>
+        <td class="text-center"><button type="button" class="layui-btn layui-btn-xs" onclick="showClassDetail('c1',9)">详细</button></td>
+    </tr>
+
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_dataanaly_ok</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt1.1')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt1.1' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt1.1: 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+输入内容13986128128成功！！！
+元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+输入内容121121成功！！！
+元素定位成功,该元素是：('css selector', "[type='submit']")
+点击成功！！！
+元素定位成功,该元素是：('xpath', "//span[text()='数据分析']")
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt1.2' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_findstu_ok</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt1.2')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt1.2' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt1.2: 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+元素定位成功,该元素是：('xpath', "//span[text()='招生吧']")
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt1.3' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_kjmanage_ok</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt1.3')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt1.3' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt1.3: 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+元素定位成功,该元素是：('xpath', "//span[text()='考级管理']")
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt1.4' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_organmenu_ok</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt1.4')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt1.4' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt1.4: 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+元素定位成功,该元素是：('xpath', "//span[text()='机构管理']")
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt1.5' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_psinfo_name_ok</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt1.5')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt1.5' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt1.5: 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+元素定位成功,该元素是：('xpath', "//span[text()='龚老师1']")
+文本获取成功：龚老师1
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt1.6' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_psinfo_number_ok</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt1.6')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt1.6' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt1.6: 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+元素定位成功,该元素是：('xpath', "//span[text()='13986128128']")
+文本获取成功：13986128128
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt1.7' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_psinfo_url_ok</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt1.7')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt1.7' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt1.7: 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+元素定位成功,该元素是：('css selector', '.teachHeadPic.ng-star-inserted')
+元素定位成功,该元素是：('xpath', "//div[text()='个人信息']")
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt1.8' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_stumenu_ok</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt1.8')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt1.8' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt1.8: 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+元素定位成功,该元素是：('xpath', "//span[text()='学员管理']")
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt1.9' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_techmenu_ok</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt1.9')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt1.9' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt1.9: 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+元素定位成功,该元素是：('xpath', "//span[text()='教务管理']")
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+    <tr class='passClass'>
+        <td class="text-center">test_login.TestLogin</td>
+        <td class="text-center">13</td>
+        <td class="text-center">13</td>
+        <td class="text-center">0</td>
+        <td class="text-center">0</td>
+        <td class="text-center">0</td>
+        <td class="text-center"><button type="button" class="layui-btn layui-btn-xs" onclick="showClassDetail('c2',13)">详细</button></td>
+    </tr>
+
+<tr id='pt2.1' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_user_flase_pwd_flase</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt2.1')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt2.1' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt2.1: 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+输入内容13986138138成功！！！
+元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+输入内容125555523成功！！！
+元素定位成功,该元素是：('css selector', "[type='submit']")
+点击成功！！！
+元素定位成功,该元素是：('css selector', '.ant-modal-confirm-title&gt;span')
+文本获取成功：用户名或密码错误，请重新输入！
+元素定位成功,该元素是：('css selector', '.ant-modal-confirm-btns&gt;button')
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2.2' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_user_flase_pwd_true</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt2.2')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt2.2' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt2.2: 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+输入内容13986138138成功！！！
+元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+输入内容121121成功！！！
+元素定位成功,该元素是：('css selector', "[type='submit']")
+点击成功！！！
+元素定位成功,该元素是：('css selector', '.ant-modal-confirm-title&gt;span')
+文本获取成功：用户名或密码错误，请重新输入！
+元素定位成功,该元素是：('css selector', '.ant-modal-confirm-btns&gt;button')
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2.3' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_user_long_pwd_long</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt2.3')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt2.3' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt2.3: 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+输入内容13986128128555555555成功！！！
+元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+输入内容121456789123456789632成功！！！
+元素定位成功,该元素是：('css selector', "[type='submit']")
+点击成功！！！
+元素定位成功,该元素是：('css selector', '.ant-modal-confirm-title&gt;span')
+文本获取成功：用户名或密码错误，请重新输入！
+元素定位成功,该元素是：('css selector', '.ant-modal-confirm-btns&gt;button')
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2.4' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_user_long_pwd_ok</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt2.4')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt2.4' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt2.4: 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+输入内容13986128128555555555成功！！！
+元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+输入内容121122成功！！！
+元素定位成功,该元素是：('css selector', "[type='submit']")
+点击成功！！！
+元素定位成功,该元素是：('css selector', '.ant-modal-confirm-title&gt;span')
+文本获取成功：用户名或密码错误，请重新输入！
+元素定位成功,该元素是：('css selector', '.ant-modal-confirm-btns&gt;button')
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2.5' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_user_no_pwd_none</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt2.5')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt2.5' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt2.5: 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+输入内容成功！！！
+元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+输入内容成功！！！
+元素定位成功,该元素是：('css selector', "[type='submit']")
+点击成功！！！
+元素定位成功,该元素是：('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+文本获取成功：请输入手机号码
+元素定位成功,该元素是：('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+文本获取成功：请输入6-20位账户密码
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2.6' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_user_none_pwd_ok</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt2.6')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt2.6' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt2.6: 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+输入内容成功！！！
+元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+输入内容121121成功！！！
+元素定位成功,该元素是：('css selector', "[type='submit']")
+点击成功！！！
+元素定位成功,该元素是：('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+文本获取成功：请输入手机号码
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2.7' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_user_ok_pwd_long</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt2.7')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt2.7' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt2.7: 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+输入内容13986128128成功！！！
+元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+输入内容121456789123456789632成功！！！
+元素定位成功,该元素是：('css selector', "[type='submit']")
+点击成功！！！
+元素定位成功,该元素是：('css selector', '.ant-modal-confirm-title&gt;span')
+文本获取成功：用户名或密码错误，请重新输入！
+元素定位成功,该元素是：('css selector', '.ant-modal-confirm-btns&gt;button')
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2.8' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_user_ok_pwd_none</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt2.8')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt2.8' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt2.8: 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+输入内容13986128128成功！！！
+元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+输入内容成功！！！
+元素定位成功,该元素是：('css selector', "[type='submit']")
+点击成功！！！
+元素定位成功,该元素是：('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+文本获取成功：请输入6-20位账户密码
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2.9' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_user_ok_pwd_short</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt2.9')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt2.9' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt2.9: 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+输入内容13986128128成功！！！
+元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+输入内容121成功！！！
+元素定位成功,该元素是：('css selector', "[type='submit']")
+点击成功！！！
+元素定位成功,该元素是：('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+文本获取成功：请输入6-20位账户密码
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2.10' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_user_pwd_ok</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt2.10')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt2.10' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt2.10: 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+输入内容13986128128成功！！！
+元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+输入内容121121成功！！！
+元素定位成功,该元素是：('css selector', "[type='submit']")
+点击成功！！！
+元素定位成功,该元素是：('css selector', '.teachHeadPic.ng-star-inserted')
+元素定位成功,该元素是：('xpath', "//div[text()='退出账号']")
+点击成功！！！
+元素定位成功,该元素是：('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2.11' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_user_short_pwd_ok</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt2.11')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt2.11' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt2.11: 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+输入内容13986成功！！！
+元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+输入内容121121成功！！！
+元素定位成功,该元素是：('css selector', "[type='submit']")
+点击成功！！！
+元素定位成功,该元素是：('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+文本获取成功：请输入手机号码
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2.12' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_user_short_pwd_short</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt2.12')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt2.12' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt2.12: 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+输入内容13986成功！！！
+元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+输入内容121成功！！！
+元素定位成功,该元素是：('css selector', "[type='submit']")
+点击成功！！！
+元素定位成功,该元素是：('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+文本获取成功：请输入手机号码
+元素定位成功,该元素是：('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+文本获取成功：请输入6-20位账户密码
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt2.13' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_user_true_pwd_flase</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt2.13')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt2.13' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt2.13: 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+输入内容13986128128成功！！！
+元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+输入内容125555522成功！！！
+元素定位成功,该元素是：('css selector', "[type='submit']")
+点击成功！！！
+元素定位成功,该元素是：('css selector', '.ant-modal-confirm-title&gt;span')
+文本获取成功：用户名或密码错误，请重新输入！
+元素定位成功,该元素是：('css selector', '.ant-modal-confirm-btns&gt;button')
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+    <tr class='passClass'>
+        <td class="text-center">test_stuManage.TestStuManage</td>
+        <td class="text-center">5</td>
+        <td class="text-center">5</td>
+        <td class="text-center">0</td>
+        <td class="text-center">0</td>
+        <td class="text-center">0</td>
+        <td class="text-center"><button type="button" class="layui-btn layui-btn-xs" onclick="showClassDetail('c3',5)">详细</button></td>
+    </tr>
+
+<tr id='pt3.1' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_stumenu_ass_ok</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt3.1')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt3.1' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt3.1: 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+输入内容13986128128成功！！！
+元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+输入内容121121成功！！！
+元素定位成功,该元素是：('css selector', "[type='submit']")
+点击成功！！！
+元素定位成功,该元素是：('xpath', "//span[text()='学员管理']")
+点击成功！！！
+元素定位成功,该元素是：('xpath', "//div[text()='学员档案']")
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt3.2' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_stumenu_findstu_ok</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt3.2')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt3.2' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt3.2: 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+元素定位成功,该元素是：('xpath', "//span[text()='学员管理']")
+点击成功！！！
+元素定位成功,该元素是：('xpath', "//div[text()='招生跟进']")
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt3.3' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_stumenu_info_ok</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt3.3')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt3.3' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt3.3: 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+元素定位成功,该元素是：('xpath', "//span[text()='学员管理']")
+点击成功！！！
+元素定位成功,该元素是：('css selector', '.daiyuyueBtn')
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt3.4' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_stumenu_inpprint_ok</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt3.4')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt3.4' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt3.4: 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+元素定位成功,该元素是：('xpath', "//span[text()='学员管理']")
+点击成功！！！
+元素定位成功,该元素是：('xpath', "//div[text()='导入/导出']")
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+<tr id='pt3.5' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_stumenu_stumoney_ok</div></td>
+    <td>
+    <a onfocus='this.blur();' data-toggle="collapse" href="javascript:showTestDetail('div_pt3.5')">
+        通过</a>
+    </td>
+    <td colspan='5'>
+    <div id='div_pt3.5' class="collapse in">
+        <blockquote class="layui-elem-quote">
+            <pre>pt3.5: 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+元素定位成功,该元素是：('xpath', "//span[text()='学员管理']")
+点击成功！！！
+元素定位成功,该元素是：('xpath', "//div[text()='学员费用']")
+点击成功！！！
+</pre>
+        </blockquote>
+    </div>
+    </td>
+</tr>
+
+                </tbody>
+                <tr id='total_row' class="text-center active">
+                    <td align="right">总计</td>
+                    <td>27</td>
+                    <td>27</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td></td>
+                </tr>
+            </table>
+        </div>
+	</fieldset>
+
+        <a href="#">
+    <ul class="layui-fixbar"><li class="layui-icon layui-fixbar-top" lay-type="top" style="display: list-item;"></li></ul>
+    </a>
+    
+        
+    <script type="text/javascript">
+        // 初始化echarts实例
+        var myChart1 = echarts.init(document.getElementById('chart1'));
+        var myChart2 = echarts.init(document.getElementById('chart2'));
+        // 指定图表的配置项和数据
+        option1 = {
+            tooltip: {
+                formatter: '{a} <br/>{b} : {c}%'
+            },
+            toolbox: {
+                feature: {
+                    restore: {},
+                    saveAsImage: {}
+                }
+            },
+            series: [{
+                name: '测试结果',
+                type: 'gauge',
+                detail: {
+                    formatter: '100.00%'
+                },
+                data: [{
+                    value: '100.00',
+                    name: '用例通过率'
+                }],
+                axisLine: {
+                    lineStyle: {
+                        color: [
+                            [0.2, '#c20000'],
+                            [0.8, '#ddb518'],
+                            [1, '#00a10a']
+                        ]
+                    }
+                }
+            }]
+        };
+        option2 = {
+            color: ['#00a10a', '#ddb518', 'rgba(204,46,41,0.73)', '#85898c'],
+            tooltip: {
+                trigger: 'item',
+                formatter: '{a} <br/>{b}: {c} ({d}%)'
+            },
+            legend: {
+                orient: 'vertical',
+                left: 10,
+                data: ['通过', '失败', '错误', '跳过']
+            },
+            series: [{
+                name: '测试结果',
+                type: 'pie',
+                radius: ['50%', '70%'],
+                avoidLabelOverlap: false,
+                label: {
+                    show: false,
+                    position: 'center'
+                },
+                emphasis: {
+                    label: {
+                        show: true,
+                        fontSize: '30',
+                        fontWeight: 'bold'
+                    }
+                },
+                labelLine: {
+                    show: false
+                },
+                data: [{
+                        value: 27,
+                        name: '通过'
+                    },
+                    {
+                        value: 0,
+                        name: '失败'
+                    },
+                    {
+                        value: 0,
+                        name: '错误'
+                    },
+                    {
+                        value: 0,
+                        name: '跳过'
+                    }
+                ]
+            }]
+        };
+
+        myChart1.setOption(option1);
+        myChart2.setOption(option2);
+    </script>
+    
+    </div>
+</body>
+</html>

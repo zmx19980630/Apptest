@@ -1,0 +1,213 @@
+2022-11-28 17:57:58,518 - doExcel.py:[22] - [INFO] - 文件打开成功！！
+2022-11-28 17:57:58,518 - doExcel.py:[38] - [INFO] - sheet表获取成功！！
+2022-11-28 17:57:58,522 - doExcel.py:[22] - [INFO] - 文件打开成功！！
+2022-11-28 17:57:58,522 - doExcel.py:[38] - [INFO] - sheet表获取成功！！
+2022-11-28 17:57:58,526 - doExcel.py:[22] - [INFO] - 文件打开成功！！
+2022-11-28 17:57:58,526 - doExcel.py:[38] - [INFO] - sheet表获取成功！！
+2022-11-28 17:57:58,526 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：.teachHeadPic.ng-star-inserted
+2022-11-28 17:57:58,526 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='退出账号']
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：.ant-btn.ng-star-inserted.ant-btn-primary
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='个人信息']
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//span[text()='龚老师1']
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//span[text()='13986128128']
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//span[text()='工作台']
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//span[text()='学员管理']
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//span[text()='教务管理']
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//span[text()='机构管理']
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//span[text()='数据分析']
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//span[text()='招生吧']
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//span[text()='考级管理']
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='学员档案']
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='招生跟进']
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='学员费用']
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='导入/导出']
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：.daiyuyueBtn
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：[formcontrolname='userName']
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：[formcontrolname='password']
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：[type='submit']
+2022-11-28 17:57:58,527 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：.ant-modal-confirm-title>span
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：.ant-modal-confirm-btns>button
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986128128
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：121121
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：121121
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986128128
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986138138
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：121121
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986128128
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：125555522
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986138138
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：125555523
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：121121
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986128128555555555
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：121122
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986128128
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：121
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986128128
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：121456789123456789632
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986128128555555555
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：121456789123456789632
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986
+2022-11-28 17:57:58,528 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：121
+2022-11-28 17:57:58,533 - doExcel.py:[22] - [INFO] - 文件打开成功！！
+2022-11-28 17:57:58,533 - doExcel.py:[38] - [INFO] - sheet表获取成功！！
+2022-11-28 17:57:58,533 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='学员档案']
+2022-11-28 17:57:58,533 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='招生跟进']
+2022-11-28 17:57:58,533 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='学员费用']
+2022-11-28 17:57:58,533 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='导入/导出']
+2022-11-28 17:58:09,136 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-28 17:58:09,156 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-28 17:58:09,209 - basePage.py:[103] - [INFO] - 输入内容13986138138成功！！！
+2022-11-28 17:58:09,227 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-28 17:58:09,273 - basePage.py:[103] - [INFO] - 输入内容125555523成功！！！
+2022-11-28 17:58:09,288 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-28 17:58:09,299 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:58:14,331 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-title>span')
+2022-11-28 17:58:14,341 - basePage.py:[116] - [INFO] - 文本获取成功：用户名或密码错误，请重新输入！
+2022-11-28 17:58:14,341 - test_login.py:[129] - [INFO] - 用户名或密码错误成功出现！
+2022-11-28 17:58:15,360 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-btns>button')
+2022-11-28 17:58:15,389 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:58:16,263 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-28 17:58:16,279 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-28 17:58:16,333 - basePage.py:[103] - [INFO] - 输入内容13986138138成功！！！
+2022-11-28 17:58:16,346 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-28 17:58:16,390 - basePage.py:[103] - [INFO] - 输入内容121121成功！！！
+2022-11-28 17:58:16,401 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-28 17:58:16,409 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:58:21,425 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-title>span')
+2022-11-28 17:58:21,436 - basePage.py:[116] - [INFO] - 文本获取成功：用户名或密码错误，请重新输入！
+2022-11-28 17:58:21,436 - test_login.py:[98] - [INFO] - 用户名或密码错误文本成功出现！
+2022-11-28 17:58:22,456 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-btns>button')
+2022-11-28 17:58:22,461 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:58:22,844 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-28 17:58:22,858 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-28 17:58:22,909 - basePage.py:[103] - [INFO] - 输入内容13986128128555555555成功！！！
+2022-11-28 17:58:22,922 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-28 17:58:22,979 - basePage.py:[103] - [INFO] - 输入内容121456789123456789632成功！！！
+2022-11-28 17:58:22,992 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-28 17:58:23,000 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:58:29,030 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-title>span')
+2022-11-28 17:58:29,040 - basePage.py:[116] - [INFO] - 文本获取成功：用户名或密码错误，请重新输入！
+2022-11-28 17:58:29,041 - test_login.py:[201] - [INFO] - 用户名或密码错误成功出现！
+2022-11-28 17:58:30,059 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-btns>button')
+2022-11-28 17:58:30,063 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:58:31,291 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-28 17:58:31,306 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-28 17:58:31,356 - basePage.py:[103] - [INFO] - 输入内容13986128128555555555成功！！！
+2022-11-28 17:58:31,368 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-28 17:58:31,418 - basePage.py:[103] - [INFO] - 输入内容121122成功！！！
+2022-11-28 17:58:31,431 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-28 17:58:31,438 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:58:36,466 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-title>span')
+2022-11-28 17:58:36,477 - basePage.py:[116] - [INFO] - 文本获取成功：用户名或密码错误，请重新输入！
+2022-11-28 17:58:36,477 - test_login.py:[159] - [INFO] - 用户名或密码错误成功出现！
+2022-11-28 17:58:37,495 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-btns>button')
+2022-11-28 17:58:37,501 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:58:37,984 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-28 17:58:37,998 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-28 17:58:38,031 - basePage.py:[103] - [INFO] - 输入内容成功！！！
+2022-11-28 17:58:38,044 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-28 17:58:38,078 - basePage.py:[103] - [INFO] - 输入内容成功！！！
+2022-11-28 17:58:38,097 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-28 17:58:38,105 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:58:44,139 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-28 17:58:44,151 - basePage.py:[116] - [INFO] - 文本获取成功：请输入手机号码
+2022-11-28 17:58:44,151 - test_login.py:[50] - [INFO] - 请输入手机号码文本提示成功出现！
+2022-11-28 17:58:44,171 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-28 17:58:44,181 - basePage.py:[116] - [INFO] - 文本获取成功：请输入6-20位账户密码
+2022-11-28 17:58:44,181 - test_login.py:[58] - [INFO] - 请输入6-20位账户密码文本成功出现！
+2022-11-28 17:58:44,569 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-28 17:58:44,582 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-28 17:58:44,619 - basePage.py:[103] - [INFO] - 输入内容成功！！！
+2022-11-28 17:58:44,632 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-28 17:58:44,676 - basePage.py:[103] - [INFO] - 输入内容121121成功！！！
+2022-11-28 17:58:44,688 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-28 17:58:44,694 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:58:50,727 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-28 17:58:50,737 - basePage.py:[116] - [INFO] - 文本获取成功：请输入手机号码
+2022-11-28 17:58:50,737 - test_login.py:[72] - [INFO] - 手机号文本提示成功出现！
+2022-11-28 17:58:51,145 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-28 17:58:51,160 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-28 17:58:51,202 - basePage.py:[103] - [INFO] - 输入内容13986128128成功！！！
+2022-11-28 17:58:51,214 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-28 17:58:51,269 - basePage.py:[103] - [INFO] - 输入内容121456789123456789632成功！！！
+2022-11-28 17:58:51,294 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-28 17:58:51,303 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:58:57,333 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-title>span')
+2022-11-28 17:58:57,344 - basePage.py:[116] - [INFO] - 文本获取成功：用户名或密码错误，请重新输入！
+2022-11-28 17:58:58,361 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-btns>button')
+2022-11-28 17:58:58,389 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:58:58,753 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-28 17:58:58,766 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-28 17:58:58,817 - basePage.py:[103] - [INFO] - 输入内容13986128128成功！！！
+2022-11-28 17:58:58,829 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-28 17:58:58,861 - basePage.py:[103] - [INFO] - 输入内容成功！！！
+2022-11-28 17:58:58,874 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-28 17:58:58,880 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:59:04,909 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-28 17:59:04,919 - basePage.py:[116] - [INFO] - 文本获取成功：请输入6-20位账户密码
+2022-11-28 17:59:04,919 - test_login.py:[85] - [INFO] - 密码提示文本成功出现！
+2022-11-28 17:59:05,275 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-28 17:59:05,289 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-28 17:59:05,334 - basePage.py:[103] - [INFO] - 输入内容13986128128成功！！！
+2022-11-28 17:59:05,356 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-28 17:59:05,394 - basePage.py:[103] - [INFO] - 输入内容121成功！！！
+2022-11-28 17:59:05,407 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-28 17:59:05,413 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:59:11,451 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-28 17:59:11,462 - basePage.py:[116] - [INFO] - 文本获取成功：请输入6-20位账户密码
+2022-11-28 17:59:11,462 - test_login.py:[175] - [INFO] - 密码提示文本成功出现！
+2022-11-28 17:59:11,845 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-28 17:59:11,857 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-28 17:59:11,900 - basePage.py:[103] - [INFO] - 输入内容13986128128成功！！！
+2022-11-28 17:59:11,912 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-28 17:59:11,958 - basePage.py:[103] - [INFO] - 输入内容121121成功！！！
+2022-11-28 17:59:11,974 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-28 17:59:11,982 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:59:20,005 - test_login.py:[34] - [INFO] - 登录成功页面断言成功！
+2022-11-28 17:59:20,020 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.teachHeadPic.ng-star-inserted')
+2022-11-28 17:59:20,347 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//div[text()='退出账号']")
+2022-11-28 17:59:20,369 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:59:20,391 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')
+2022-11-28 17:59:20,404 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:59:23,733 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-28 17:59:23,877 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-28 17:59:23,921 - basePage.py:[103] - [INFO] - 输入内容13986成功！！！
+2022-11-28 17:59:23,939 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-28 17:59:23,986 - basePage.py:[103] - [INFO] - 输入内容121121成功！！！
+2022-11-28 17:59:24,002 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-28 17:59:24,012 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:59:30,054 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-28 17:59:30,065 - basePage.py:[116] - [INFO] - 文本获取成功：请输入手机号码
+2022-11-28 17:59:30,065 - test_login.py:[145] - [INFO] - 请输入手机号码文本成功出现！
+2022-11-28 17:59:30,370 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-28 17:59:30,517 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-28 17:59:30,569 - basePage.py:[103] - [INFO] - 输入内容13986成功！！！
+2022-11-28 17:59:30,586 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-28 17:59:30,640 - basePage.py:[103] - [INFO] - 输入内容121成功！！！
+2022-11-28 17:59:30,657 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-28 17:59:30,667 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:59:36,692 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-28 17:59:36,702 - basePage.py:[116] - [INFO] - 文本获取成功：请输入手机号码
+2022-11-28 17:59:36,703 - test_login.py:[217] - [INFO] - 请输入手机号码文本提示成功出现！
+2022-11-28 17:59:36,718 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-28 17:59:36,728 - basePage.py:[116] - [INFO] - 文本获取成功：请输入6-20位账户密码
+2022-11-28 17:59:36,728 - test_login.py:[225] - [INFO] - 请输入6-20位账户密码文本成功出现！
+2022-11-28 17:59:37,041 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-28 17:59:37,062 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-28 17:59:37,124 - basePage.py:[103] - [INFO] - 输入内容13986128128成功！！！
+2022-11-28 17:59:37,149 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-28 17:59:37,203 - basePage.py:[103] - [INFO] - 输入内容125555522成功！！！
+2022-11-28 17:59:37,222 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-28 17:59:37,236 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-28 17:59:42,253 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-title>span')
+2022-11-28 17:59:42,262 - basePage.py:[116] - [INFO] - 文本获取成功：用户名或密码错误，请重新输入！
+2022-11-28 17:59:42,263 - test_login.py:[113] - [INFO] - 用户名或密码错误文本成功出现！
+2022-11-28 17:59:43,283 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-btns>button')
+2022-11-28 17:59:43,312 - basePage.py:[143] - [INFO] - 点击成功！！！

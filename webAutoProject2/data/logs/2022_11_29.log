@@ -1,0 +1,985 @@
+2022-11-29 09:48:32,533 - doExcel.py:[22] - [INFO] - 文件打开成功！！
+2022-11-29 09:48:32,533 - doExcel.py:[38] - [INFO] - sheet表获取成功！！
+2022-11-29 09:48:32,537 - doExcel.py:[22] - [INFO] - 文件打开成功！！
+2022-11-29 09:48:32,537 - doExcel.py:[38] - [INFO] - sheet表获取成功！！
+2022-11-29 09:48:32,542 - doExcel.py:[22] - [INFO] - 文件打开成功！！
+2022-11-29 09:48:32,542 - doExcel.py:[38] - [INFO] - sheet表获取成功！！
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：.teachHeadPic.ng-star-inserted
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='退出账号']
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：.ant-btn.ng-star-inserted.ant-btn-primary
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='个人信息']
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//span[text()='龚老师1']
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//span[text()='13986128128']
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//span[text()='工作台']
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//span[text()='学员管理']
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//span[text()='教务管理']
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//span[text()='机构管理']
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//span[text()='数据分析']
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//span[text()='招生吧']
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//span[text()='考级管理']
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='学员档案']
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='招生跟进']
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='学员费用']
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='导入/导出']
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：.daiyuyueBtn
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：[formcontrolname='userName']
+2022-11-29 09:48:32,542 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：[formcontrolname='password']
+2022-11-29 09:48:32,543 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：[type='submit']
+2022-11-29 09:48:32,543 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-29 09:48:32,543 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-29 09:48:32,543 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：.ant-modal-confirm-title>span
+2022-11-29 09:48:32,543 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：.ant-modal-confirm-btns>button
+2022-11-29 09:48:32,543 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986128128
+2022-11-29 09:48:32,543 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：121121
+2022-11-29 09:48:32,543 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：
+2022-11-29 09:48:32,543 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：
+2022-11-29 09:48:32,543 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：
+2022-11-29 09:48:32,543 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：121121
+2022-11-29 09:48:32,543 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986128128
+2022-11-29 09:48:32,543 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：
+2022-11-29 09:48:32,543 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986138138
+2022-11-29 09:48:32,543 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：121121
+2022-11-29 09:48:32,543 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986128128
+2022-11-29 09:48:32,544 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：125555522
+2022-11-29 09:48:32,544 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986138138
+2022-11-29 09:48:32,544 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：125555523
+2022-11-29 09:48:32,544 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986
+2022-11-29 09:48:32,544 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：121121
+2022-11-29 09:48:32,544 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986128128555555555
+2022-11-29 09:48:32,544 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：121122
+2022-11-29 09:48:32,544 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986128128
+2022-11-29 09:48:32,544 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：121
+2022-11-29 09:48:32,544 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986128128
+2022-11-29 09:48:32,544 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：121456789123456789632
+2022-11-29 09:48:32,544 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986128128555555555
+2022-11-29 09:48:32,544 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：121456789123456789632
+2022-11-29 09:48:32,544 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：13986
+2022-11-29 09:48:32,544 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：121
+2022-11-29 09:48:32,553 - doExcel.py:[22] - [INFO] - 文件打开成功！！
+2022-11-29 09:48:32,553 - doExcel.py:[38] - [INFO] - sheet表获取成功！！
+2022-11-29 09:48:32,553 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='学员档案']
+2022-11-29 09:48:32,553 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='招生跟进']
+2022-11-29 09:48:32,553 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='学员费用']
+2022-11-29 09:48:32,553 - doExcel.py:[46] - [INFO] - 读取文件成功，值是：//div[text()='导入/导出']
+2022-11-29 09:48:41,707 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:48:41,734 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-29 09:48:41,840 - basePage.py:[103] - [INFO] - 输入内容13986128128成功！！！
+2022-11-29 09:48:41,868 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-29 09:48:41,922 - basePage.py:[103] - [INFO] - 输入内容121121成功！！！
+2022-11-29 09:48:41,940 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-29 09:48:41,959 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:48:48,004 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//span[text()='数据分析']")
+2022-11-29 09:48:48,047 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:48:49,241 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:48:49,707 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:48:54,746 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:48:54,748 - basePage.py:[100] - [ERROR] - 出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:48:59,761 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:48:59,762 - basePage.py:[100] - [ERROR] - 出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:49:04,806 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:49:04,815 - basePage.py:[140] - [ERROR] - 出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 137, in doClick
+    self.driver.execute_script("arguments[0].click();", ele)#jquery脚本级别的语言进行点击，获取第0个元素。源码级别的代码
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 634, in execute_script
+    return self.execute(command, {
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+2022-11-29 09:49:10,844 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//span[text()='招生吧']")
+2022-11-29 09:49:10,854 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:49:12,036 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:49:12,320 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:49:17,359 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:49:17,359 - basePage.py:[100] - [ERROR] - 出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:49:22,379 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:49:22,379 - basePage.py:[100] - [ERROR] - 出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:49:27,441 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:49:27,448 - basePage.py:[140] - [ERROR] - 出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 137, in doClick
+    self.driver.execute_script("arguments[0].click();", ele)#jquery脚本级别的语言进行点击，获取第0个元素。源码级别的代码
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 634, in execute_script
+    return self.execute(command, {
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+2022-11-29 09:49:33,482 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//span[text()='考级管理']")
+2022-11-29 09:49:33,530 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:49:34,709 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:49:35,009 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:49:40,097 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:49:40,097 - basePage.py:[100] - [ERROR] - 出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:49:45,186 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:49:45,186 - basePage.py:[100] - [ERROR] - 出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:49:50,251 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:49:50,257 - basePage.py:[140] - [ERROR] - 出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 137, in doClick
+    self.driver.execute_script("arguments[0].click();", ele)#jquery脚本级别的语言进行点击，获取第0个元素。源码级别的代码
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 634, in execute_script
+    return self.execute(command, {
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+2022-11-29 09:49:56,286 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//span[text()='机构管理']")
+2022-11-29 09:49:56,304 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:49:57,311 - test_job.py:[124] - [ERROR] - 机构管理断言出现异常，异常是：'orgAdmin' not found in 'http://139.199.0.102/dashboard'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\testCase\test_job.py", line 122, in test_organmenu_ok
+    self.assertIn("orgAdmin", url)
+  File "D:\software\python\lib\unittest\case.py", line 1179, in assertIn
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\software\python\lib\unittest\case.py", line 753, in fail
+    raise self.failureException(msg)
+AssertionError: 'orgAdmin' not found in 'http://139.199.0.102/dashboard'
+2022-11-29 09:49:57,666 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:49:57,949 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:50:02,977 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:50:02,977 - basePage.py:[100] - [ERROR] - 出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:50:08,082 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:50:08,082 - basePage.py:[100] - [ERROR] - 出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:50:13,182 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:50:13,188 - basePage.py:[140] - [ERROR] - 出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 137, in doClick
+    self.driver.execute_script("arguments[0].click();", ele)#jquery脚本级别的语言进行点击，获取第0个元素。源码级别的代码
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 634, in execute_script
+    return self.execute(command, {
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+2022-11-29 09:50:19,219 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//span[text()='龚老师1']")
+2022-11-29 09:50:19,238 - basePage.py:[116] - [INFO] - 文本获取成功：龚老师1
+2022-11-29 09:50:19,477 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:50:19,889 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:50:24,901 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:50:24,902 - basePage.py:[100] - [ERROR] - 出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:50:29,975 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:50:29,975 - basePage.py:[100] - [ERROR] - 出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:50:35,023 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:50:35,055 - basePage.py:[140] - [ERROR] - 出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 137, in doClick
+    self.driver.execute_script("arguments[0].click();", ele)#jquery脚本级别的语言进行点击，获取第0个元素。源码级别的代码
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 634, in execute_script
+    return self.execute(command, {
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+2022-11-29 09:50:41,092 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//span[text()='13986128128']")
+2022-11-29 09:50:41,103 - basePage.py:[116] - [INFO] - 文本获取成功：13986128128
+2022-11-29 09:50:41,263 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:50:41,571 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:50:46,594 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:50:46,594 - basePage.py:[100] - [ERROR] - 出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:50:51,665 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:50:51,665 - basePage.py:[100] - [ERROR] - 出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:50:56,696 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:50:56,702 - basePage.py:[140] - [ERROR] - 出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 137, in doClick
+    self.driver.execute_script("arguments[0].click();", ele)#jquery脚本级别的语言进行点击，获取第0个元素。源码级别的代码
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 634, in execute_script
+    return self.execute(command, {
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+2022-11-29 09:51:02,728 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.teachHeadPic.ng-star-inserted')
+2022-11-29 09:51:03,060 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//div[text()='个人信息']")
+2022-11-29 09:51:03,069 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:51:04,216 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:51:04,560 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:51:09,632 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:51:09,632 - basePage.py:[100] - [ERROR] - 出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:51:14,707 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:51:14,707 - basePage.py:[100] - [ERROR] - 出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:51:19,768 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:51:19,775 - basePage.py:[140] - [ERROR] - 出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 137, in doClick
+    self.driver.execute_script("arguments[0].click();", ele)#jquery脚本级别的语言进行点击，获取第0个元素。源码级别的代码
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 634, in execute_script
+    return self.execute(command, {
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+2022-11-29 09:51:25,813 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//span[text()='学员管理']")
+2022-11-29 09:51:25,859 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:51:29,029 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:51:29,637 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:51:34,746 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:51:34,746 - basePage.py:[100] - [ERROR] - 出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:51:39,803 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:51:39,803 - basePage.py:[100] - [ERROR] - 出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:51:44,862 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:51:44,871 - basePage.py:[140] - [ERROR] - 出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 137, in doClick
+    self.driver.execute_script("arguments[0].click();", ele)#jquery脚本级别的语言进行点击，获取第0个元素。源码级别的代码
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 634, in execute_script
+    return self.execute(command, {
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+2022-11-29 09:51:50,910 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//span[text()='教务管理']")
+2022-11-29 09:51:50,917 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:51:52,159 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:52:11,699 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:52:11,731 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-29 09:52:11,799 - basePage.py:[103] - [INFO] - 输入内容13986138138成功！！！
+2022-11-29 09:52:11,827 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-29 09:52:11,890 - basePage.py:[103] - [INFO] - 输入内容125555523成功！！！
+2022-11-29 09:52:11,913 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-29 09:52:11,933 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:52:16,958 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:52:16,970 - basePage.py:[116] - [INFO] - 文本获取成功：用户名或密码错误，请重新输入！
+2022-11-29 09:52:17,597 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:52:18,625 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-btns>button')
+2022-11-29 09:52:18,668 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:52:19,378 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:52:19,401 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-29 09:52:19,498 - basePage.py:[103] - [INFO] - 输入内容13986138138成功！！！
+2022-11-29 09:52:19,526 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-29 09:52:19,609 - basePage.py:[103] - [INFO] - 输入内容121121成功！！！
+2022-11-29 09:52:19,633 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-29 09:52:19,654 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:52:24,683 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:52:24,694 - basePage.py:[116] - [INFO] - 文本获取成功：用户名或密码错误，请重新输入！
+2022-11-29 09:52:25,187 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:52:26,214 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-btns>button')
+2022-11-29 09:52:26,225 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:52:26,643 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:52:26,678 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-29 09:52:26,814 - basePage.py:[103] - [INFO] - 输入内容13986128128555555555成功！！！
+2022-11-29 09:52:26,849 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-29 09:52:26,975 - basePage.py:[103] - [INFO] - 输入内容121456789123456789632成功！！！
+2022-11-29 09:52:26,994 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-29 09:52:27,012 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:52:33,041 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:52:33,051 - basePage.py:[116] - [INFO] - 文本获取成功：用户名或密码错误，请重新输入！
+2022-11-29 09:52:33,490 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:52:34,516 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-btns>button')
+2022-11-29 09:52:34,524 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:52:34,924 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:52:34,981 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-29 09:52:35,058 - basePage.py:[103] - [INFO] - 输入内容13986128128555555555成功！！！
+2022-11-29 09:52:35,073 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-29 09:52:35,141 - basePage.py:[103] - [INFO] - 输入内容121122成功！！！
+2022-11-29 09:52:35,160 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-29 09:52:35,167 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:52:40,186 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:52:40,198 - basePage.py:[116] - [INFO] - 文本获取成功：用户名或密码错误，请重新输入！
+2022-11-29 09:52:40,655 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:52:41,679 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-btns>button')
+2022-11-29 09:52:41,686 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:52:42,073 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:52:42,100 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-29 09:52:42,145 - basePage.py:[103] - [INFO] - 输入内容成功！！！
+2022-11-29 09:52:42,158 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-29 09:52:42,206 - basePage.py:[103] - [INFO] - 输入内容成功！！！
+2022-11-29 09:52:42,222 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-29 09:52:42,234 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:52:48,269 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:52:48,279 - basePage.py:[116] - [INFO] - 文本获取成功：请输入手机号码
+2022-11-29 09:52:48,834 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:52:48,851 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:52:48,861 - basePage.py:[116] - [INFO] - 文本获取成功：请输入6-20位账户密码
+2022-11-29 09:52:49,388 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:52:49,771 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:52:49,915 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-29 09:52:49,961 - basePage.py:[103] - [INFO] - 输入内容成功！！！
+2022-11-29 09:52:49,979 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-29 09:52:50,048 - basePage.py:[103] - [INFO] - 输入内容121121成功！！！
+2022-11-29 09:52:50,064 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-29 09:52:50,079 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:52:56,108 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:52:56,118 - basePage.py:[116] - [INFO] - 文本获取成功：请输入手机号码
+2022-11-29 09:52:56,664 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:52:57,022 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:52:57,044 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-29 09:52:57,112 - basePage.py:[103] - [INFO] - 输入内容13986128128成功！！！
+2022-11-29 09:52:57,145 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-29 09:52:57,238 - basePage.py:[103] - [INFO] - 输入内容121456789123456789632成功！！！
+2022-11-29 09:52:57,261 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-29 09:52:57,279 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:53:03,303 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:53:03,313 - basePage.py:[116] - [INFO] - 文本获取成功：用户名或密码错误，请重新输入！
+2022-11-29 09:53:03,758 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:53:04,778 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-btns>button')
+2022-11-29 09:53:04,785 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:53:05,154 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:53:05,293 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-29 09:53:05,364 - basePage.py:[103] - [INFO] - 输入内容13986128128成功！！！
+2022-11-29 09:53:05,381 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-29 09:53:05,433 - basePage.py:[103] - [INFO] - 输入内容成功！！！
+2022-11-29 09:53:05,457 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-29 09:53:05,463 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:53:11,496 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:53:11,508 - basePage.py:[116] - [INFO] - 文本获取成功：请输入6-20位账户密码
+2022-11-29 09:53:12,080 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:53:12,548 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:53:12,568 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-29 09:53:12,650 - basePage.py:[103] - [INFO] - 输入内容13986128128成功！！！
+2022-11-29 09:53:12,672 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-29 09:53:12,753 - basePage.py:[103] - [INFO] - 输入内容121成功！！！
+2022-11-29 09:53:12,780 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-29 09:53:12,795 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:53:18,819 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:53:18,828 - basePage.py:[116] - [INFO] - 文本获取成功：请输入6-20位账户密码
+2022-11-29 09:53:19,374 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:53:19,753 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:53:19,776 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-29 09:53:19,854 - basePage.py:[103] - [INFO] - 输入内容13986128128成功！！！
+2022-11-29 09:53:19,898 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-29 09:53:19,966 - basePage.py:[103] - [INFO] - 输入内容121121成功！！！
+2022-11-29 09:53:19,991 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-29 09:53:20,010 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:53:28,209 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:53:28,227 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.teachHeadPic.ng-star-inserted')
+2022-11-29 09:53:28,551 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//div[text()='退出账号']")
+2022-11-29 09:53:28,579 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:53:28,600 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-btn.ng-star-inserted.ant-btn-primary')
+2022-11-29 09:53:28,618 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:53:32,026 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:53:32,050 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-29 09:53:32,098 - basePage.py:[103] - [INFO] - 输入内容13986成功！！！
+2022-11-29 09:53:32,111 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-29 09:53:32,178 - basePage.py:[103] - [INFO] - 输入内容121121成功！！！
+2022-11-29 09:53:32,193 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-29 09:53:32,200 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:53:38,220 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:53:38,229 - basePage.py:[116] - [INFO] - 文本获取成功：请输入手机号码
+2022-11-29 09:53:38,777 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:53:39,161 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:53:39,323 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-29 09:53:39,406 - basePage.py:[103] - [INFO] - 输入内容13986成功！！！
+2022-11-29 09:53:39,429 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-29 09:53:39,498 - basePage.py:[103] - [INFO] - 输入内容121成功！！！
+2022-11-29 09:53:39,524 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-29 09:53:39,531 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:53:45,560 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:53:45,570 - basePage.py:[116] - [INFO] - 文本获取成功：请输入手机号码
+2022-11-29 09:53:46,107 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:53:46,125 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:53:46,135 - basePage.py:[116] - [INFO] - 文本获取成功：请输入6-20位账户密码
+2022-11-29 09:53:46,755 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:53:47,179 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:53:47,209 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-29 09:53:47,299 - basePage.py:[103] - [INFO] - 输入内容13986128128成功！！！
+2022-11-29 09:53:47,331 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-29 09:53:47,431 - basePage.py:[103] - [INFO] - 输入内容125555522成功！！！
+2022-11-29 09:53:47,462 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-29 09:53:47,488 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:53:52,517 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:53:52,528 - basePage.py:[116] - [INFO] - 文本获取成功：用户名或密码错误，请重新输入！
+2022-11-29 09:53:53,551 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.ant-modal-confirm-btns>button')
+2022-11-29 09:53:53,582 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:54:05,272 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:54:05,302 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='userName']")
+2022-11-29 09:54:05,392 - basePage.py:[103] - [INFO] - 输入内容13986128128成功！！！
+2022-11-29 09:54:05,415 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[formcontrolname='password']")
+2022-11-29 09:54:05,483 - basePage.py:[103] - [INFO] - 输入内容121121成功！！！
+2022-11-29 09:54:05,504 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', "[type='submit']")
+2022-11-29 09:54:05,527 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:54:11,562 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//span[text()='学员管理']")
+2022-11-29 09:54:11,608 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:54:12,450 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//div[text()='学员档案']")
+2022-11-29 09:54:12,468 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:54:12,771 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:54:13,440 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:54:18,444 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:54:18,444 - basePage.py:[100] - [ERROR] - 出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:54:23,486 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:54:23,486 - basePage.py:[100] - [ERROR] - 出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:54:28,531 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:54:28,566 - basePage.py:[140] - [ERROR] - 出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 137, in doClick
+    self.driver.execute_script("arguments[0].click();", ele)#jquery脚本级别的语言进行点击，获取第0个元素。源码级别的代码
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 634, in execute_script
+    return self.execute(command, {
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+2022-11-29 09:54:34,597 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//span[text()='学员管理']")
+2022-11-29 09:54:34,611 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:54:34,855 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//div[text()='招生跟进']")
+2022-11-29 09:54:34,879 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:54:35,106 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:54:35,521 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:54:40,556 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:54:40,556 - basePage.py:[100] - [ERROR] - 出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:54:45,629 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:54:45,629 - basePage.py:[100] - [ERROR] - 出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:54:50,644 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:54:50,651 - basePage.py:[140] - [ERROR] - 出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 137, in doClick
+    self.driver.execute_script("arguments[0].click();", ele)#jquery脚本级别的语言进行点击，获取第0个元素。源码级别的代码
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 634, in execute_script
+    return self.execute(command, {
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+2022-11-29 09:54:56,697 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//span[text()='学员管理']")
+2022-11-29 09:54:56,710 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:54:59,734 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('css selector', '.daiyuyueBtn')
+2022-11-29 09:54:59,753 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:54:59,905 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:55:00,404 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:55:05,454 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:55:05,454 - basePage.py:[100] - [ERROR] - 出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:55:10,490 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:55:10,490 - basePage.py:[100] - [ERROR] - 出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:55:15,564 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:55:15,569 - basePage.py:[140] - [ERROR] - 出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 137, in doClick
+    self.driver.execute_script("arguments[0].click();", ele)#jquery脚本级别的语言进行点击，获取第0个元素。源码级别的代码
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 634, in execute_script
+    return self.execute(command, {
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+2022-11-29 09:55:21,609 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//span[text()='学员管理']")
+2022-11-29 09:55:21,628 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:55:21,864 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//div[text()='导入/导出']")
+2022-11-29 09:55:21,910 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:55:22,198 - basePage.py:[130] - [INFO] - 截图成功！！！
+2022-11-29 09:55:22,659 - basePage.py:[80] - [INFO] - 页面打开成功，未发生异常：http://139.199.0.102/passport/login
+2022-11-29 09:55:27,726 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='userName']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:55:27,726 - basePage.py:[100] - [ERROR] - 出现异常，输入13986128128失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:55:32,809 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[formcontrolname='password']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:55:32,809 - basePage.py:[100] - [ERROR] - 出现异常，输入121121失败
+原因是：'NoneType' object has no attribute 'send_keys'
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 97, in inputValue
+    ele.send_keys(value)
+AttributeError: 'NoneType' object has no attribute 'send_keys'
+2022-11-29 09:55:37,915 - basePage.py:[88] - [ERROR] - 出现异常，定位失败
+错误信息是：Message: 
+,该元素是：('css selector', "[type='submit']")
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 84, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-29 09:55:37,920 - basePage.py:[140] - [ERROR] - 出现异常，点击该元素('css selector', "[type='submit']")失败
+错误信息是：Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+Traceback (most recent call last):
+  File "D:\pythonCoding\webAutoProject2\demo\pageObject\basePage.py", line 137, in doClick
+    self.driver.execute_script("arguments[0].click();", ele)#jquery脚本级别的语言进行点击，获取第0个元素。源码级别的代码
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 634, in execute_script
+    return self.execute(command, {
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\pythonCoding\webAutoProject2\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read properties of null (reading 'click')
+  (Session info: chrome=107.0.5304.107)
+
+2022-11-29 09:55:43,966 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//span[text()='学员管理']")
+2022-11-29 09:55:43,991 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:55:44,193 - basePage.py:[91] - [INFO] - 元素定位成功,该元素是：('xpath', "//div[text()='学员费用']")
+2022-11-29 09:55:44,272 - basePage.py:[143] - [INFO] - 点击成功！！！
+2022-11-29 09:55:44,580 - basePage.py:[130] - [INFO] - 截图成功！！！
